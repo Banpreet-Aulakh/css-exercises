@@ -1,4 +1,4 @@
-.odd {
+.odd,.third {
     background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
     font-size: 12;
@@ -9,7 +9,7 @@
     color: blue;
 }
 
-.odd.third{
+.third{
     font-size: 24;
 }
 
